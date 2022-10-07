@@ -1,5 +1,5 @@
 module Oniguruma [system] {
-    umbrella header "conig.h"
+    umbrella header "umbrella.h"
     link "Oniguruma"
     export *
 }
